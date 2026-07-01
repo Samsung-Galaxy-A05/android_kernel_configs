@@ -151,6 +151,7 @@ was not changed - just the enforcement)
 			<release version="6.6.98" launch="2025-08-11" eol="2027-01-01"/>
 			<release version="6.6.102" launch="2025-10-09" eol="2027-02-01"/>
 			<release version="6.6.118" launch="2026-01-12" eol="2027-05-01"/>
+			<release version="6.6.138" launch="2026-06-01" eol="2027-05-01"/>
 		</lts-versions>
 	</branch>
 
